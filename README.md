@@ -60,3 +60,20 @@ access_key     ****************234a shared-credentials-file
 secret_key     ****************567b shared-credentials-file    
     region           ap-northeast-2      config-file    ~/.aws/config
 ```
+
+### **Visit wwww.cloudopz.co to get more**
+
+
+<h3 align="center">
+  <a href="https://dev.to/vumdao">:stars: Blog</a>
+  <span> · </span>
+  <a href="https://vumdao.hashnode.dev/">Web</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/in/vu-dao-9280ab43/">Linkedin</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/groups/12488649/">Group</a>
+  <span> · </span>
+  <a href="https://www.facebook.com/CloudOpz-104917804863956">Page</a>
+  <span> · </span>
+  <a href="https://twitter.com/VuDao81124667">Twitter :stars:</a>
+</h3>
